@@ -3,3 +3,6 @@
 (not true)
 (not (and true false))
 (or (and true false) (and true true))
+(and true true true)
+(and false true true)
+(or false false true)
